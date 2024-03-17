@@ -1,0 +1,37 @@
+/* Header.css */
+
+.navbar {
+    background-color: #ffffff; /* Change background color as needed */
+    border-bottom: 1px solid #e0e0e0; /* Add border for separation */
+  }
+  
+  .navbar-brand {
+    color: #333333; /* Change text color as needed */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333333; /* Change text color as needed */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff; /* Change text color on hover as needed */
+  }
+  
+  .dropdown-menu {
+    background-color: #ffffff; /* Change background color as needed */
+  }
+  
+  .dropdown-menu .dropdown-item {
+    color: #333333; /* Change text color as needed */
+  }
+  
+  .dropdown-menu .dropdown-item:hover {
+    background-color: #f8f9fa; /* Change background color on hover as needed */
+  }
+  
+  .nav-item {
+    margin-right: 10px; /* Adjust margin between navigation items */
+  }
+  
+  /* Add more styles as needed */
+  
